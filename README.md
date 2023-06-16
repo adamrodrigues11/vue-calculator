@@ -1,5 +1,7 @@
 # vue-calculator
 
+Refactored my react-calculator project using Vue.js to learn the basics of the framework for an academic project.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
